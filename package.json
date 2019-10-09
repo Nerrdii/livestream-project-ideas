@@ -1,0 +1,26 @@
+{
+  "name": "livestream-project-ideas",
+  "version": "1.0.0",
+  "description": "See project idea submissions in real time using Feathers.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Joseph Davis",
+    "email": "joseph.n.davis.98@gmail.com",
+    "url": "https://www.josephndavis.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@feathersjs/express": "^4.3.4",
+    "@feathersjs/feathers": "^4.3.4",
+    "@feathersjs/socketio": "^4.3.4",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
