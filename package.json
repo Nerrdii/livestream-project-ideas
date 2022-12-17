@@ -15,9 +15,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@feathersjs/express": "^4.3.4",
-    "@feathersjs/feathers": "^4.3.4",
-    "@feathersjs/socketio": "^4.3.4",
+    "@feathersjs/express": "^4.5.15",
+    "@feathersjs/feathers": "^4.5.15",
+    "@feathersjs/socketio": "^4.5.15",
     "moment": "^2.29.4"
   },
   "devDependencies": {
